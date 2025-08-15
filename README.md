@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Shamsi Mumtahina Momo** and I’m a Computer Science & Business student at Brandeis University. I love solving problems, scaling impactful ideas, and sometimes grinding technical projects with friends over tea!
+My name is **Shamsi Mumtahina Momo** and I’m a Computer Science & Business student at Brandeis University. I love solving problems, scaling impactful ideas, and sometimes grinding technical projects with friends!
 
 We can talk about AI, edtech, startups, hackathons, or your latest project. I’m always up for collaborating! 
 
@@ -8,10 +8,11 @@ We can talk about AI, edtech, startups, hackathons, or your latest project. I’
 
 ```java
 public class Momo {
-    int age = 20;
     String[] hobbies = { "Traveling", "Painting", "Reading books"};
     String comfortDrink = "Tea (best with parents)";
     String funFact = "Forgets to drink the tea because too busy talking";
+    int siblings = 2;
+    boolean glasses = true;
 }
 ```
 ## Experience (Quick Glance)
