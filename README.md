@@ -45,13 +45,11 @@ public class Momo {
 ![Usability Testing](https://img.shields.io/badge/Usability%20Testing-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 ![Analytics](https://img.shields.io/badge/Analytics-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
-![Prioritization](https://img.shields.io/badge/Prioritization-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 ![Communication](https://img.shields.io/badge/Communication-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 ![Leadership](https://img.shields.io/badge/Leadership-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 ![Teamwork](https://img.shields.io/badge/Teamwork-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 ![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
-![Product Thinking](https://img.shields.io/badge/Product%20Thinking-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
 
 
