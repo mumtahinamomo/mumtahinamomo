@@ -34,6 +34,8 @@ public class Momo {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+
 
 ## Skills
 ![Agile](https://img.shields.io/badge/Agile-%20-0B0E14?labelColor=0B0E14&color=0B0E14)
