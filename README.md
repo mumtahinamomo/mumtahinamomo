@@ -15,7 +15,7 @@ public class Momo {
     boolean glasses = true;
 }
 ```
-## Experience (Quick Glance)
+## Experience 
 - **SWE Intern (Summer 2025)** @ [IHMC](https://ihmc.org) 
 - **Building** [AdjunctX](https://www.adjunctx.info/)
 - **Research Assistant, CLAMS.ai** @ [Brandeis Lab of Linguistics and Computation](https://clams.ai/)
