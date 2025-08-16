@@ -20,7 +20,7 @@ public class Momo {
 - **Building** [AdjunctX](https://www.adjunctx.info/)
 - **Research Assistant, CLAMS.ai** @ [Brandeis Lab of Linguistics and Computation](https://clams.ai/)
 - **AI/ML Fellow** @ [Break Through Tech AI (MIT)](https://breakthroughtech.org/ai/)
-- **AI Studio Fellow** @ Maka.ai
+- **AI Studio Fellow** @ Maka.ai (Break Through Tech AI Studio Project)
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
