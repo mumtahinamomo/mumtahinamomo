@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 My name is **Shamsi Mumtahina Momo** and I’m a Computer Science & Business student at Brandeis University. I love solving problems, scaling impactful ideas, and sometimes grinding technical projects with friends!
 
