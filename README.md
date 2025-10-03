@@ -17,7 +17,7 @@ public class Momo {
 ```
 ## Experience 
 - **SWE Intern (Summer 2025)** @ [IHMC](https://ihmc.org) 
-- **Building** [AdjunctX](https://www.adjunctx.info/)
+- **Building** [AdjunctX]([https:/adjunctx.info/](https://adjunctx.info/))
 - **Research Assistant, CLAMS.ai** @ [Brandeis Lab of Linguistics and Computation](https://clams.ai/)
 - **AI/ML Fellow** @ [Break Through Tech AI (MIT)](https://breakthroughtech.org/ai/)
 - **AI Studio Fellow** @ Maka.ai (Break Through Tech AI Studio Project)
