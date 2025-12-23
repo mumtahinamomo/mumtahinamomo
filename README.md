@@ -6,15 +6,6 @@ We can talk about AI, edtech, startups, hackathons, or your latest project. I’
 
 ---
 
-```java
-public class Momo {
-    String[] hobbies = { "Traveling", "Painting", "Reading books"};
-    String comfortDrink = "Tea (best with parents)";
-    String funFact = "Forgets to drink the tea because too busy talking";
-    int siblings = 2;
-    boolean glasses = true;
-}
-```
 ## Experience 
 - **SWE Intern (Summer 2025)** @ [IHMC](https://ihmc.org) 
 - **Research Assistant, CLAMS.ai** @ [Brandeis Lab of Linguistics and Computation](https://clams.ai/)
