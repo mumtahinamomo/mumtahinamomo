@@ -2,7 +2,7 @@
 
 My name is **Shamsi Mumtahina Momo** and I’m a Computer Science & Business student at Brandeis University. I love solving problems, scaling impactful ideas, and sometimes grinding technical projects with friends!
 
-We can talk about AI, edtech, startups, hackathons, or your latest project. I’m always up for collaborating! 
+We can talk about AI, startups, research, hackathons, or your latest project. I’m always up for collaborating! 
 
 ---
 
