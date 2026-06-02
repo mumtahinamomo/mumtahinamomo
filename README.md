@@ -11,6 +11,10 @@ We can talk about AI, edtech, startups, hackathons, or your latest project. I’
 - **Research Assistant, CLAMS.ai** @ [Brandeis Lab of Linguistics and Computation](https://clams.ai/)
 - **AI/ML Fellow** @ [Break Through Tech AI (MIT)](https://breakthroughtech.org/ai/)
 - **AI Studio Fellow** @ Maka.ai (Break Through Tech AI Studio Project)
+- **AI Policy Researcher** @ [Racial Justice and Technology Policy Lab Incubator](https://heller.brandeis.edu/racial-justice-and-technology-policy/index.html)
+- **Undergraduate Researcher** @ Michtom School of Computer Science, Brandeis University
+- 2x Ain Summer Startup Awardee
+
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
